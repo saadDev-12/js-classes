@@ -6,8 +6,10 @@
 // confirm("do you want to  delet this");
 //  var userinput =  prompt("pleas inter student mark");
 //  alert("Grade A+");
-var userage = prompt("enter your age");
+// var userage = prompt("enter your age");
 // alert("your are not aligible");
-
+  
  
-
+alert("welcom");
+var my =prompt("enter your name")
+document.write("hello")

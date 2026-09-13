@@ -46,7 +46,12 @@
 //student.splice(startig-index , delete-coiuntadd-element / replace-element )
 // delete'saqib'
 
-student.splice(3,1);
-console.log(student)
+// student.splice(3,1);
+// console.log(student);
+
+
+// include 
+let array = [1,2,3,4,5,6,7];
+console.log(array.includes())
 
  
